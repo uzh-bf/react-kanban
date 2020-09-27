@@ -15,10 +15,10 @@
     "react-dom": "^16.8.0"
   },
   "devDependencies": {
-    "@babel/core": "7.10.2",
-    "@babel/plugin-proposal-optional-chaining": "7.10.1",
-    "@babel/preset-env": "7.10.2",
-    "@babel/preset-react": "7.10.1",
+    "@babel/core": "7.10.5",
+    "@babel/plugin-proposal-optional-chaining": "7.10.4",
+    "@babel/preset-env": "7.10.4",
+    "@babel/preset-react": "7.10.4",
     "@cypress/code-coverage": "3.8.1",
     "@testing-library/jest-dom": "5.9.0",
     "@testing-library/react": "10.2.1",
